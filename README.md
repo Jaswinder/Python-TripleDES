@@ -31,4 +31,7 @@ https://cryptography.io/en/latest/hazmat/primitives/symmetric-encryption/
 YouTube
 https://www.youtube.com/c/JaswinderSinghChauhan
 
+Facebook
+https://www.facebook.com/gleamfuture
+https://www.facebook.com/groups/337443523440772
 
