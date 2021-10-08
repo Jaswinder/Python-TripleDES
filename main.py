@@ -19,6 +19,9 @@ c1 = encryptor1.update(b"Crypto is fun and entertaining") + encryptor1.finalize(
 print("ciphertext c1 is")
 print(c1)
 
+decryptor = cipher1.decryptor()
+dt = decryptor.update(c1) + decryptor.finalize()
+print(dt)
 print("-----------------C2------------------------")
 key2 = b'12345678abcdefghabcdefgh'
 #key = os.urandom(24)
